@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,8 +59,26 @@
     <Compile Include="gioithieu.Designer.cs">
       <DependentUpon>gioithieu.cs</DependentUpon>
     </Compile>
+    <Compile Include="LAPTOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LAPTOP.Designer.cs">
+      <DependentUpon>LAPTOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="macbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="macbook.Designer.cs">
+      <DependentUpon>macbook.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tainghe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tainghe.Designer.cs">
+      <DependentUpon>tainghe.cs</DependentUpon>
+    </Compile>
     <Compile Include="trangchu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +91,12 @@
     <EmbeddedResource Include="gioithieu.resx">
       <DependentUpon>gioithieu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="LAPTOP.resx">
+      <DependentUpon>LAPTOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="macbook.resx">
+      <DependentUpon>macbook.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -82,6 +107,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="tainghe.resx">
+      <DependentUpon>tainghe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="trangchu.resx">
       <DependentUpon>trangchu.cs</DependentUpon>
     </EmbeddedResource>
@@ -154,6 +182,129 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\a25d88581ddcb482edcd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8259_ac___lenovo_ideapad_slim_5_16iah8_83bg001xvn_3 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45509_laptop_dell_latitude_3420_l3420i5ssdf512b_anphatpc_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dell-xps-7590-gtx1650-laptopone_2e2a639502e44404b7ac3a35c23c0d04_grande.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dell-xps-15-9510-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45952_laptop_hp_probook_450_g10_873l0pa_anphatpc_34.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s-l1600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jhujujj.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jhujujj1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jhujujj2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jhujujj3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-laptop-icon-png-image_421169.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b0c35f9f80c7289971d6 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b0c35f9f80c7289971d6 %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2371658bb6d31e8d47c2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2b3ce29a34c29c9cc5d3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7feb5b988ec0269e7fd1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2f10f01029488116d859.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b0c35f9f80c7289971d6 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-air-15-inch-m2-2023-midnight-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-air-m2-2022-16gb-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dell-xps-15-9510-41.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-pro-m2-2022-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\macbook-pro-16-inch-m2-pro-glr-bac-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-air-m2-2023-starlight-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-pro-m2-2022-16gb-600x600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-air-m2-2022-16gb-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-pro-m2-2022-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-air-m2-2023-starlight-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-macbook-air-15-inch-m2-2023-midnight-1 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\macbook-pro-16-inch-m2-pro-glr-bac-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %283%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

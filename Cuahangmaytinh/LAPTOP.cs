@@ -10,24 +10,14 @@ using System.Windows.Forms;
 
 namespace Cuahangmaytinh
 {
-    public partial class trangchu : Form
+    public partial class LAPTOP : Form
     {
-        public trangchu()
+        public LAPTOP()
         {
             InitializeComponent();
         }
 
-        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox4_Click(object sender, EventArgs e)
+        private void label12_Click(object sender, EventArgs e)
         {
 
         }

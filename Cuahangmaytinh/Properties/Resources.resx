@@ -118,61 +118,184 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="64d9532a95ae3cf065bf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\64d9532a95ae3cf065bf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="apple-macbook-air-m2-2023-starlight-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-air-m2-2023-starlight-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="6f2d0c827605df5b8614" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6f2d0c827605df5b8614.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="apple-macbook-air-m2-2022-16gb-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-air-m2-2022-16gb-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="5ce747037d87d4d98d961" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5ce747037d87d4d98d961.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Capture2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Capture2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2b3ce29a34c29c9cc5d3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2b3ce29a34c29c9cc5d3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tải xuống (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tải xuống (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-air-m2-2022-16gb-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-air-m2-2022-16gb-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Capture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Capture.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Capture3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Capture3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="45509_laptop_dell_latitude_3420_l3420i5ssdf512b_anphatpc_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\45509_laptop_dell_latitude_3420_l3420i5ssdf512b_anphatpc_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="s-l1600" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\s-l1600.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dell-xps-15-9510-41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dell-xps-15-9510-41.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-air-m2-2023-starlight-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-air-m2-2023-starlight-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7feb5b988ec0269e7fd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7feb5b988ec0269e7fd1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b0c35f9f80c7289971d6 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b0c35f9f80c7289971d6 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b0c35f9f80c7289971d6 (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b0c35f9f80c7289971d6 (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tải xuống" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tải xuống.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="9c785d349eb037ee6ea1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\9c785d349eb037ee6ea1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="a25d88581ddcb482edcd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a25d88581ddcb482edcd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="31e42b2c45abecf5b5ba" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\31e42b2c45abecf5b5ba.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="500628e3e4674d391476" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\500628e3e4674d391476.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="62f211adf92950770938" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\62f211adf92950770938.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5ce747037d87d4d98d96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5ce747037d87d4d98d96.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="istockphoto-906381150-1024x1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\istockphoto-906381150-1024x1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="f8af9048e7cf4e9117de" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f8af9048e7cf4e9117de.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="608d9256e7d14e8f17c0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\608d9256e7d14e8f17c0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bb8899322db684e8dda7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bb8899322db684e8dda7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="dd2076c8be4c17124e5d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dd2076c8be4c17124e5d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="8259_ac___lenovo_ideapad_slim_5_16iah8_83bg001xvn_3 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8259_ac___lenovo_ideapad_slim_5_16iah8_83bg001xvn_3 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="830c8fd022548b0ad245" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\830c8fd022548b0ad245.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="a25d88581ddcb482edcd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\a25d88581ddcb482edcd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="608d9256e7d14e8f17c0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\608d9256e7d14e8f17c0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f8af9048e7cf4e9117de" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f8af9048e7cf4e9117de.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5ce747037d87d4d98d96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5ce747037d87d4d98d96.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="64d9532a95ae3cf065bf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\64d9532a95ae3cf065bf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="500628e3e4674d391476" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\500628e3e4674d391476.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2f10f01029488116d859" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2f10f01029488116d859.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jhujujj3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jhujujj3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="macbook-pro-16-inch-m2-pro-glr-bac-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\macbook-pro-16-inch-m2-pro-glr-bac-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tải xuống (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tải xuống (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="62f211adf92950770938" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\62f211adf92950770938.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jhujujj2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jhujujj2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9c785d349eb037ee6ea1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9c785d349eb037ee6ea1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dd2076c8be4c17124e5d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dd2076c8be4c17124e5d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="macbook-pro-16-inch-m2-pro-glr-bac-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\macbook-pro-16-inch-m2-pro-glr-bac-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dell-xps-7590-gtx1650-laptopone_2e2a639502e44404b7ac3a35c23c0d04_grande" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dell-xps-7590-gtx1650-laptopone_2e2a639502e44404b7ac3a35c23c0d04_grande.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6f2d0c827605df5b8614" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6f2d0c827605df5b8614.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jhujujj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jhujujj.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-pro-m2-2022-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-pro-m2-2022-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-pro-m2-2022-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-pro-m2-2022-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="31e42b2c45abecf5b5ba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\31e42b2c45abecf5b5ba.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bb8899322db684e8dda7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bb8899322db684e8dda7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-pro-m2-2022-16gb-600x600" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-pro-m2-2022-16gb-600x600.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="b0c35f9f80c7289971d6 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\b0c35f9f80c7289971d6 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-air-15-inch-m2-2023-midnight-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-air-15-inch-m2-2023-midnight-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dell-xps-15-9510-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dell-xps-15-9510-4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-906381150-1024x1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-906381150-1024x1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="45952_laptop_hp_probook_450_g10_873l0pa_anphatpc_34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\45952_laptop_hp_probook_450_g10_873l0pa_anphatpc_34.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5ce747037d87d4d98d961" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5ce747037d87d4d98d961.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Capture1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Capture1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple-macbook-air-15-inch-m2-2023-midnight-1 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-macbook-air-15-inch-m2-2023-midnight-1 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jhujujj1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jhujujj1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2371658bb6d31e8d47c2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2371658bb6d31e8d47c2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-vector-laptop-icon-png-image_421169" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-vector-laptop-icon-png-image_421169.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tải xuống (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tải xuống (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

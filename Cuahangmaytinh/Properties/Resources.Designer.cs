@@ -63,9 +63,59 @@ namespace Cuahangmaytinh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2371658bb6d31e8d47c2 {
+            get {
+                object obj = ResourceManager.GetObject("2371658bb6d31e8d47c2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2b3ce29a34c29c9cc5d3 {
+            get {
+                object obj = ResourceManager.GetObject("2b3ce29a34c29c9cc5d3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2f10f01029488116d859 {
+            get {
+                object obj = ResourceManager.GetObject("2f10f01029488116d859", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _31e42b2c45abecf5b5ba {
             get {
                 object obj = ResourceManager.GetObject("31e42b2c45abecf5b5ba", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _45509_laptop_dell_latitude_3420_l3420i5ssdf512b_anphatpc_3 {
+            get {
+                object obj = ResourceManager.GetObject("45509_laptop_dell_latitude_3420_l3420i5ssdf512b_anphatpc_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _45952_laptop_hp_probook_450_g10_873l0pa_anphatpc_34 {
+            get {
+                object obj = ResourceManager.GetObject("45952_laptop_hp_probook_450_g10_873l0pa_anphatpc_34", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,6 +193,26 @@ namespace Cuahangmaytinh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _7feb5b988ec0269e7fd1 {
+            get {
+                object obj = ResourceManager.GetObject("7feb5b988ec0269e7fd1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8259_ac___lenovo_ideapad_slim_5_16iah8_83bg001xvn_3__1_ {
+            get {
+                object obj = ResourceManager.GetObject("8259_ac___lenovo_ideapad_slim_5_16iah8_83bg001xvn_3 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _830c8fd022548b0ad245 {
             get {
                 object obj = ResourceManager.GetObject("830c8fd022548b0ad245", resourceCulture);
@@ -173,6 +243,126 @@ namespace Cuahangmaytinh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_air_15_inch_m2_2023_midnight_1 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-air-15-inch-m2-2023-midnight-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_air_15_inch_m2_2023_midnight_1__1_ {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-air-15-inch-m2-2023-midnight-1 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_air_m2_2022_16gb_1 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-air-m2-2022-16gb-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_air_m2_2022_16gb_11 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-air-m2-2022-16gb-11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_air_m2_2023_starlight_1 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-air-m2-2023-starlight-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_air_m2_2023_starlight_11 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-air-m2-2023-starlight-11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_pro_m2_2022_1 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-pro-m2-2022-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_pro_m2_2022_11 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-pro-m2-2022-11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap apple_macbook_pro_m2_2022_16gb_600x600 {
+            get {
+                object obj = ResourceManager.GetObject("apple-macbook-pro-m2-2022-16gb-600x600", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap b0c35f9f80c7289971d6__1_ {
+            get {
+                object obj = ResourceManager.GetObject("b0c35f9f80c7289971d6 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap b0c35f9f80c7289971d6__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("b0c35f9f80c7289971d6 (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap b0c35f9f80c7289971d6__2_ {
+            get {
+                object obj = ResourceManager.GetObject("b0c35f9f80c7289971d6 (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bb8899322db684e8dda7 {
             get {
                 object obj = ResourceManager.GetObject("bb8899322db684e8dda7", resourceCulture);
@@ -183,9 +373,79 @@ namespace Cuahangmaytinh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Capture {
+            get {
+                object obj = ResourceManager.GetObject("Capture", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Capture1 {
+            get {
+                object obj = ResourceManager.GetObject("Capture1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Capture2 {
+            get {
+                object obj = ResourceManager.GetObject("Capture2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Capture3 {
+            get {
+                object obj = ResourceManager.GetObject("Capture3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap dd2076c8be4c17124e5d {
             get {
                 object obj = ResourceManager.GetObject("dd2076c8be4c17124e5d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dell_xps_15_9510_4 {
+            get {
+                object obj = ResourceManager.GetObject("dell-xps-15-9510-4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dell_xps_15_9510_41 {
+            get {
+                object obj = ResourceManager.GetObject("dell-xps-15-9510-41", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dell_xps_7590_gtx1650_laptopone_2e2a639502e44404b7ac3a35c23c0d04_grande {
+            get {
+                object obj = ResourceManager.GetObject("dell-xps-7590-gtx1650-laptopone_2e2a639502e44404b7ac3a35c23c0d04_grande", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +503,159 @@ namespace Cuahangmaytinh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap images3 {
+            get {
+                object obj = ResourceManager.GetObject("images3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap istockphoto_906381150_1024x1024 {
             get {
                 object obj = ResourceManager.GetObject("istockphoto-906381150-1024x1024", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jhujujj {
+            get {
+                object obj = ResourceManager.GetObject("jhujujj", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jhujujj1 {
+            get {
+                object obj = ResourceManager.GetObject("jhujujj1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jhujujj2 {
+            get {
+                object obj = ResourceManager.GetObject("jhujujj2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap jhujujj3 {
+            get {
+                object obj = ResourceManager.GetObject("jhujujj3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap macbook_pro_16_inch_m2_pro_glr_bac_1 {
+            get {
+                object obj = ResourceManager.GetObject("macbook-pro-16-inch-m2-pro-glr-bac-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap macbook_pro_16_inch_m2_pro_glr_bac_11 {
+            get {
+                object obj = ResourceManager.GetObject("macbook-pro-16-inch-m2-pro-glr-bac-11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_vector_laptop_icon_png_image_421169 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-vector-laptop-icon-png-image_421169", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap s_l1600 {
+            get {
+                object obj = ResourceManager.GetObject("s-l1600", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tải_xuống {
+            get {
+                object obj = ResourceManager.GetObject("tải xuống", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tải_xuống__1_ {
+            get {
+                object obj = ResourceManager.GetObject("tải xuống (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tải_xuống__2_ {
+            get {
+                object obj = ResourceManager.GetObject("tải xuống (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tải_xuống__3_ {
+            get {
+                object obj = ResourceManager.GetObject("tải xuống (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vi_vn_apple_macbook_air_2020_mgn63saa_thumbvideo {
+            get {
+                object obj = ResourceManager.GetObject("vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vi_vn_apple_macbook_air_2020_mgn63saa_thumbvideo1 {
+            get {
+                object obj = ResourceManager.GetObject("vi-vn-apple-macbook-air-2020-mgn63saa-thumbvideo1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
