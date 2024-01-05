@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
+            this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.SuspendLayout();
             // 
             // label1
@@ -45,11 +46,20 @@
             this.label1.Text = "               NQĐ \r\nCông Nghệ Thông Minh\r\n";
             this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
+            // hScrollBar1
+            // 
+            this.hScrollBar1.Location = new System.Drawing.Point(9, 588);
+            this.hScrollBar1.Name = "hScrollBar1";
+            this.hScrollBar1.Size = new System.Drawing.Size(80, 17);
+            this.hScrollBar1.TabIndex = 3;
+            this.hScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.hScrollBar1_Scroll);
+            // 
             // gioithieu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 614);
+            this.Controls.Add(this.hScrollBar1);
             this.Controls.Add(this.label1);
             this.Cursor = System.Windows.Forms.Cursors.SizeAll;
             this.Name = "gioithieu";
@@ -62,5 +72,6 @@
 
         #endregion
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.HScrollBar hScrollBar1;
     }
 }

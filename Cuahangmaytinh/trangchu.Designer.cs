@@ -30,6 +30,10 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(trangchu));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.lapToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tAINGHEToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mACIToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lINHKIỆNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.label2 = new System.Windows.Forms.Label();
@@ -75,10 +79,7 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.lapToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tAINGHEToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mACIToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.lINHKIỆNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -110,6 +111,43 @@
             this.menuStrip1.Size = new System.Drawing.Size(953, 36);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            // 
+            // lapToolStripMenuItem
+            // 
+            this.lapToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
+            this.lapToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.lapToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.images2;
+            this.lapToolStripMenuItem.Name = "lapToolStripMenuItem";
+            this.lapToolStripMenuItem.Size = new System.Drawing.Size(114, 32);
+            this.lapToolStripMenuItem.Text = "LAPTOP";
+            // 
+            // tAINGHEToolStripMenuItem
+            // 
+            this.tAINGHEToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
+            this.tAINGHEToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
+            this.tAINGHEToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.istockphoto_906381150_1024x1024;
+            this.tAINGHEToolStripMenuItem.Name = "tAINGHEToolStripMenuItem";
+            this.tAINGHEToolStripMenuItem.Size = new System.Drawing.Size(133, 32);
+            this.tAINGHEToolStripMenuItem.Text = "TAI NGHE";
+            // 
+            // mACIToolStripMenuItem
+            // 
+            this.mACIToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
+            this.mACIToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.mACIToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.images__1_;
+            this.mACIToolStripMenuItem.Name = "mACIToolStripMenuItem";
+            this.mACIToolStripMenuItem.Size = new System.Drawing.Size(141, 32);
+            this.mACIToolStripMenuItem.Text = "MACBOOK";
+            // 
+            // lINHKIỆNToolStripMenuItem
+            // 
+            this.lINHKIỆNToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
+            this.lINHKIỆNToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.lINHKIỆNToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.tải_xuống__3_;
+            this.lINHKIỆNToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lINHKIỆNToolStripMenuItem.Name = "lINHKIỆNToolStripMenuItem";
+            this.lINHKIỆNToolStripMenuItem.Size = new System.Drawing.Size(115, 32);
+            this.lINHKIỆNToolStripMenuItem.Text = "LIÊN HỆ";
             // 
             // label1
             // 
@@ -627,42 +665,13 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // lapToolStripMenuItem
+            // hScrollBar1
             // 
-            this.lapToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
-            this.lapToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.lapToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.images2;
-            this.lapToolStripMenuItem.Name = "lapToolStripMenuItem";
-            this.lapToolStripMenuItem.Size = new System.Drawing.Size(114, 32);
-            this.lapToolStripMenuItem.Text = "LAPTOP";
-            // 
-            // tAINGHEToolStripMenuItem
-            // 
-            this.tAINGHEToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
-            this.tAINGHEToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
-            this.tAINGHEToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.istockphoto_906381150_1024x1024;
-            this.tAINGHEToolStripMenuItem.Name = "tAINGHEToolStripMenuItem";
-            this.tAINGHEToolStripMenuItem.Size = new System.Drawing.Size(133, 32);
-            this.tAINGHEToolStripMenuItem.Text = "TAI NGHE";
-            // 
-            // mACIToolStripMenuItem
-            // 
-            this.mACIToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
-            this.mACIToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.mACIToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.images__1_;
-            this.mACIToolStripMenuItem.Name = "mACIToolStripMenuItem";
-            this.mACIToolStripMenuItem.Size = new System.Drawing.Size(141, 32);
-            this.mACIToolStripMenuItem.Text = "MACBOOK";
-            // 
-            // lINHKIỆNToolStripMenuItem
-            // 
-            this.lINHKIỆNToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
-            this.lINHKIỆNToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.lINHKIỆNToolStripMenuItem.Image = global::Cuahangmaytinh.Properties.Resources.tải_xuống__3_;
-            this.lINHKIỆNToolStripMenuItem.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lINHKIỆNToolStripMenuItem.Name = "lINHKIỆNToolStripMenuItem";
-            this.lINHKIỆNToolStripMenuItem.Size = new System.Drawing.Size(115, 32);
-            this.lINHKIỆNToolStripMenuItem.Text = "LIÊN HỆ";
+            this.hScrollBar1.Location = new System.Drawing.Point(430, 902);
+            this.hScrollBar1.Name = "hScrollBar1";
+            this.hScrollBar1.Size = new System.Drawing.Size(58, 17);
+            this.hScrollBar1.TabIndex = 7;
+            this.hScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.hScrollBar1_Scroll);
             // 
             // trangchu
             // 
@@ -670,6 +679,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(953, 928);
+            this.Controls.Add(this.hScrollBar1);
             this.Controls.Add(this.linkLabel12);
             this.Controls.Add(this.linkLabel11);
             this.Controls.Add(this.linkLabel10);
@@ -793,5 +803,6 @@
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.HScrollBar hScrollBar1;
     }
 }
